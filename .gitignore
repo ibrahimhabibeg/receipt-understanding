@@ -2,3 +2,7 @@
 !*.ipynb
 !*.md
 !.gitignore
+!pdfs/
+!pdfs/*
+!images/
+!images/*
